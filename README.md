@@ -25,7 +25,7 @@ Wejdź do folderu `src` i wpisz w terminalu:
 ```bash
 g++ main.cpp LinkedList.cpp -o program
 ./program
-
+```
 ## 👤 Autor
 
 * **Radosław Matuszewski** 
